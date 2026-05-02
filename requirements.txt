@@ -1,0 +1,6 @@
+huggingface-hub
+python-dotenv
+langchain>=1.2.16
+langchain-openai
+langchain-huggingface
+langchain-mistralai
