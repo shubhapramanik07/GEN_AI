@@ -4,3 +4,5 @@ langchain>=1.2.16
 langchain-openai
 langchain-huggingface
 langchain-mistralai
+langchain-community
+tavily-python

@@ -6,7 +6,7 @@
 # print(pipe("the capital of india", max_length=20))
 
 
-## using langchain using this we can make ai apps and also test the models.. 
+## using langchain using this we can make ai apps and also test the models:
 from langchain_huggingface import ChatHuggingFace, HuggingFacePipeline
 
 llm = HuggingFacePipeline.from_model_id(
